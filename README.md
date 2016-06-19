@@ -1,0 +1,1 @@
+This is a voice controlled calculator based on JAVA and CMU Sphinx.
